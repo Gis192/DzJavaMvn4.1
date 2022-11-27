@@ -1,3 +1,7 @@
+package ru.netology.DzJavaMvn41.BonusService;
+
+import ru.netology.DzJavaMvn41.BonusService.BonusService;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 public class BonusServiceTest {

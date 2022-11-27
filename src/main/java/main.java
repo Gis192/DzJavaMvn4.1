@@ -1,3 +1,5 @@
+import ru.netology.DzJavaMvn41.BonusService.BonusService;
+
 public class main {
     public static void main(String[] args) {
         BonusService service = new BonusService();
