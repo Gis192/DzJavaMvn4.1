@@ -1,13 +1,11 @@
 package ru.netology.DzJavaMvn41.BonusService;
 
-import com.sun.jdi.Value;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import org.junit.jupiter.params.provider.CsvSource;
 
-public class BonusServerTestPrm {
+public class BonusServerTest {
     @ParameterizedTest
     @CsvSource(
             value={
